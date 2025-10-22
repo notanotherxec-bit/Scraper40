@@ -42,7 +42,6 @@ local module = {
 		Palettes = {{Color3.fromRGB(145, 0, 27), Color3.fromRGB(154, 94, 100), Color3.fromRGB(75, 0, 7), Color3.fromRGB(72, 0, 2), Color3.fromRGB(121, 112, 112), Color3.fromRGB(255, 152, 154)}, {Color3.fromRGB(145, 0, 27), Color3.fromRGB(154, 94, 100), Color3.fromRGB(75, 0, 7), Color3.fromRGB(72, 0, 2), Color3.fromRGB(195, 98, 100), Color3.fromRGB(195, 98, 100), Color3.fromRGB(145, 0, 27), Color3.fromRGB(75, 0, 7)}};
 		LimitedMutation = 0;
 		ShowInSettings = false;
-		Index = require(script.Index.Bloodrot);
 		DisableIndex = true;
 	};
 	Rainbow = {
@@ -80,7 +79,6 @@ local module = {
 		};
 		LimitedMutation = 1753477200;
 		ShowInSettings = false;
-		Index = require(script.Index.Candy);
 	};
 	Lava = {
 		DisplayText = "Lava";
@@ -99,7 +97,6 @@ local module = {
 		};
 		LimitedMutation = 1755957600;
 		ShowInSettings = false;
-		Index = require(script.Index.Lava);
 	};
 	Galaxy = {
 		DisplayText = "Galaxy";
@@ -118,7 +115,6 @@ local module = {
 		};
 		LimitedMutation = 1758999600;
 		ShowInSettings = false;
-		Index = require(script.Index.Galaxy);
 	};
 	YinYang = {
 		DisplayText = "Yin Yang";
