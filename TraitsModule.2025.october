@@ -1,4 +1,16 @@
 local module = {
+	Gold = {
+		Display = "Gold";
+		MultiplierModifier = 1.25;
+	};
+	Diamond = {
+		Display = "Diamond";
+		MultiplierModifier = 1.5;
+	};
+	Rainbow = {
+		Display = "Rainbow";
+		MultiplierModifier = 10;
+	};
 	Taco = {
 		Display = "Taco";
 		DisplayWithRichText = "<font color=\"#FFDE59\">Taco</font>";
