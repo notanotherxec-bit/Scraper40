@@ -1584,7 +1584,7 @@ module["Mythic Lucky Block"] = {
 	Price = 2500000;
 	Generation = 0;
 	RoadWeight = 0.05;
-	LuckyBlock = LuckyBlocks["Mythic Lucky Block"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 }
 module["Brainrot God Lucky Block"] = {
@@ -1593,7 +1593,7 @@ module["Brainrot God Lucky Block"] = {
 	Price = 25000000;
 	Generation = 0;
 	RoadWeight = 0.001;
-	LuckyBlock = LuckyBlocks["Brainrot God Lucky Block"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 }
 module["Secret Lucky Block"] = {
@@ -1602,7 +1602,7 @@ module["Secret Lucky Block"] = {
 	Price = 750000000;
 	Generation = 0;
 	RoadWeight = 7e-07;
-	LuckyBlock = LuckyBlocks["Secret Lucky Block"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 }
 module["Admin Lucky Block"] = {
@@ -1610,7 +1610,7 @@ module["Admin Lucky Block"] = {
 	Rarity = "Admin";
 	Price = 100000000;
 	Generation = 0;
-	LuckyBlock = LuckyBlocks["Admin Lucky Block"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 }
 module["Taco Lucky Block"] = {
@@ -1618,7 +1618,7 @@ module["Taco Lucky Block"] = {
 	Rarity = "Taco";
 	Price = 50000000;
 	Generation = 0;
-	LuckyBlock = LuckyBlocks["Taco Lucky Block"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 	SpawnVFX = "Taco";
 	SpawnDelay = 3;
@@ -1628,7 +1628,7 @@ module["Los Lucky Blocks"] = {
 	Rarity = "Admin";
 	Price = 250000000;
 	Generation = 0;
-	LuckyBlock = LuckyBlocks["Los Lucky Blocks"];
+	LuckyBlock = "";
 	HideFromIndex = true;
 }
 
