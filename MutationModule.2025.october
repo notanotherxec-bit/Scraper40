@@ -1,4 +1,4 @@
-return {
+local module = {
 	Gold = {
 		DisplayText = "Gold";
 		DisplayWithRichText = "<font color=\"#FFDE59\">Gold</font>";
@@ -141,3 +141,5 @@ return {
 		LimitedMutation = 1761418800;
 	};
 }
+
+return module
